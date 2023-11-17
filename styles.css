@@ -17,7 +17,7 @@ body{
 	margin:15px;
 	padding-top:10px; 	
 }
-button{
+.book>div{
     width: 40vw;
     background-color: #2ecc71;
     color:white;
@@ -25,7 +25,7 @@ button{
 	margin-bottom:10px;
 	
 }
-.book>p{
+.book>p, .book>h2{
     text-align: left;
     margin: 0px;
 }
